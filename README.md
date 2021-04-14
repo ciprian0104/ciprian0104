@@ -7,7 +7,7 @@ Projects (Click on the LINKS BELOW to view the PROJECTS)
 <h2> Android Projects </h2>
 
 - <a href="https://github.com/ciprian0104/Popular-Movies"> Movies Application </a>
-- <a href= "https://github.com/ciprian0104/Inventory-application"> Inventory Application </a>
+- <a href= "https://github.com/ciprian0104/Inventory-application"> Store Inventory Application </a>
 - <a href= "https://github.com/ciprian0104/ScoreKepperApp"> Score Kepper Application </a>
 - <a href= "https://github.com/ciprian0104/TVseries"> Quiz Application </a>
 //  <a href= "">  </a>
