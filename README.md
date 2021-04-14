@@ -10,5 +10,5 @@
 - <a href= "https://github.com/ciprian0104/Inventory-application"> Inventory Application </a>
 - <a href= "https://github.com/ciprian0104/ScoreKepperApp"> Score Kepper Application </a>
 - <a href= "https://github.com/ciprian0104/TVseries"> Quiz Application </a>
-// - <a href= "">  </a>
+//  <a href= "">  </a>
 
