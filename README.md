@@ -6,12 +6,12 @@ Projects (Click on the LINKS BELOW to view the PROJECTS)
 
 <h2> Javascript Projects </h2>
 
-<a href="https://github.com/ciprian0104/tickets-panel"> Tickets Panel Application </a>
-<a href="https://github.com/ciprian0104/arcade-game"> Javascript Arcade Game </a>
+- <a href="https://github.com/ciprian0104/tickets-panel"> Tickets Panel Application </a>
+- <a href="https://github.com/ciprian0104/arcade-game"> Javascript Arcade Game </a>
 
 <h2> Python Projects </h2>
 
-<a href= "https://github.com/ciprian0104/Real-Estate-Django"> Real Estate Website </a>
+- <a href= "https://github.com/ciprian0104/Real-Estate-Django"> Real Estate Website </a>
 
 
 <h2> Android Projects </h2>
